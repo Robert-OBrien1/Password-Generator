@@ -1,0 +1,30 @@
+C:\Users\Admin\Documents\Project OOP\Project OOP\bin\Debug\Project OOP.exe.config
+C:\Users\Admin\Documents\Project OOP\Project OOP\bin\Debug\Project OOP.exe
+C:\Users\Admin\Documents\Project OOP\Project OOP\bin\Debug\Project OOP.pdb
+C:\Users\Admin\Documents\Project OOP\Project OOP\obj\Debug\Project OOP.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Project OOP\Project OOP\obj\Debug\Project OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Project OOP\Project OOP\obj\Debug\Project_OOP.Properties.Resources.resources
+C:\Users\Admin\Documents\Project OOP\Project OOP\obj\Debug\Project OOP.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Project OOP\Project OOP\obj\Debug\Project OOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Project OOP\Project OOP\obj\Debug\Project OOP.exe
+C:\Users\Admin\Documents\Project OOP\Project OOP\obj\Debug\Project OOP.pdb
+C:\Users\Admin\Documents\Project OOP\Project OOP\obj\Debug\Project_OOP.FirstWindow.resources
+C:\Users\Admin\Documents\Project OOP\Project OOP\obj\Debug\Project_OOP.AboutBox1.resources
+F:\Google Drive (Offline)\Project OOP\Project OOP\bin\Debug\Project OOP.exe.config
+F:\Google Drive (Offline)\Project OOP\Project OOP\bin\Debug\Project OOP.exe
+F:\Google Drive (Offline)\Project OOP\Project OOP\bin\Debug\Project OOP.pdb
+F:\Google Drive (Offline)\Project OOP\Project OOP\obj\Debug\Project OOP.csproj.AssemblyReference.cache
+F:\Google Drive (Offline)\Project OOP\Project OOP\obj\Debug\Project OOP.csproj.SuggestedBindingRedirects.cache
+F:\Google Drive (Offline)\Project OOP\Project OOP\obj\Debug\Project_OOP.FirstWindow.resources
+F:\Google Drive (Offline)\Project OOP\Project OOP\obj\Debug\Project_OOP.Properties.Resources.resources
+F:\Google Drive (Offline)\Project OOP\Project OOP\obj\Debug\Project OOP.csproj.GenerateResource.cache
+F:\Google Drive (Offline)\Project OOP\Project OOP\obj\Debug\Project OOP.csproj.CoreCompileInputs.cache
+F:\Google Drive (Offline)\Project OOP\Project OOP\obj\Debug\Project OOP.exe
+F:\Google Drive (Offline)\Project OOP\Project OOP\obj\Debug\Project OOP.pdb
+F:\Google Drive (Offline)\Project OOP\Project OOP\obj\Debug\Project_OOP.AboutBox.resources
+F:\Google Drive (Offline)\Project OOP\Project OOP\obj\Debug\Project_OOP.Tutorial_Box.resources
+F:\Google Drive (Offline)\Project OOP\Project OOP\obj\Debug\Interop.WMPLib.dll
+F:\Google Drive (Offline)\Project OOP\Project OOP\obj\Debug\AxInterop.WMPLib.dll
+F:\Google Drive (Offline)\Project OOP\Project OOP\obj\Debug\Project OOP.csproj.ResolveComReference.cache
+F:\Google Drive (Offline)\Project OOP\Project OOP\bin\Debug\Interop.WMPLib.dll
+F:\Google Drive (Offline)\Project OOP\Project OOP\bin\Debug\AxInterop.WMPLib.dll
